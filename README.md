@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Purpose
-
+The purpose of this project is to help Steve's parents make the best decision about which stocks to buy.
 
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
