@@ -8,7 +8,9 @@ The purpose of this project is to help Steve's parents make the best decision ab
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 
-<img src="https://github.com/juliomeza/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png" width="600">
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Over%20Average%20Volume.png" width="600">
+
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Over%20Average%20Return.png" width="600">
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 - What can you conclude about the Outcomes based on Goals?
