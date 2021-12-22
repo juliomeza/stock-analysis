@@ -23,6 +23,4 @@ Using images and examples of your code, compare the stock performance between 20
 - What are the advantages or disadvantages of refactoring code?
 - How do these pros and cons apply to refactoring the original VBA script?
 * Convert Date with slash
-*** TESTING
-*** TESTIN 22
 
