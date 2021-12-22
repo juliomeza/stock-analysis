@@ -33,6 +33,11 @@ To simplified the analysis, I have filtered out all the stocks that performed be
 
 ### Code Execution Time
 
+<p float="left">
+  <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2017-0.PNG" width="300">
+  <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG" width="300">
+</p>
+
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2017-0.PNG" width="300">
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG" width="300">
 
