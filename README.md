@@ -5,7 +5,7 @@
 The purpose of this project is to help Steve's parents make the best decision about which stocks to buy.
 
 ## Results
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+as well as the execution times of the original script and the refactored script.
 
 To simplified the analysis, I have filtered out all the stocks that performed below average.
 
@@ -22,13 +22,22 @@ To simplified the analysis, I have filtered out all the stocks that performed be
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Over%20Average%20Return.png" width="600">
 
 ### Three Possible Stocks to Buy
-
+1. The price tag trend for the top three stocks (RUN, ENPH, SEDG) look very similar.
+2. A deepest investigation is needed to select the best option.
 
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Ticker%20RUN.png" width="600">
 
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Ticker%20ENPH.png" width="600">
 
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Ticker%20SEDG.png" width="600">
+
+### Code Execution Time
+
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2017-0.PNG" width="600">
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG" width="600">
+
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2018-0.PNG" width="600">
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2018.PNG" width="600">
 
 ### Challenges and Difficulties Encountered
 
