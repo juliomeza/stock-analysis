@@ -5,8 +5,6 @@
 The purpose of this project is to help Steve's parents make the best decision about which stocks to buy.
 
 ## Results
-as well as the execution times of the original script and the refactored script.
-
 To simplified the analysis, I have filtered out all the stocks that performed below average.
 
 ### Total Daily Volume Above Average
@@ -32,26 +30,24 @@ To simplified the analysis, I have filtered out all the stocks that performed be
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Ticker%20SEDG.png" width="600">
 
 ### Code Execution Time
+The execution times have improved by 400% in the 2017 data and by 500% in the 2018 data. This is because the refactored script loops only once over the entire data.
 
+2017
 <p float="left">
   <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2017-0.PNG" width="300">
   <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG" width="300">
 </p>
-
+2018
 <p float="left">
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2018-0.PNG" width="300">
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2018.PNG" width="300">
 </p>
 
-### Challenges and Difficulties Encountered
-
-
-- What are some limitations of this dataset?
-- What are some other possible tables and/or graphs that we could create?
-
-
 ## Summary
 - What are the advantages or disadvantages of refactoring code?
 - How do these pros and cons apply to refactoring the original VBA script?
+- Challenges and Difficulties Encountered
+- What are some limitations of this dataset?
+- What are some other possible tables and/or graphs that we could create?
 * Convert Date with slash
 
