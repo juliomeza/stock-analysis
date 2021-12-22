@@ -21,8 +21,14 @@ To simplified the analysis, I have filtered out all the stocks that performed be
 
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Over%20Average%20Return.png" width="600">
 
-### Analysis of Outcomes Based on Goals
+### Three Possible Stocks to Buy
 
+
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Ticker%20RUN.png" width="600">
+
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Ticker%20ENPH.png" width="600">
+
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Ticker%20SEDG.png" width="600">
 
 ### Challenges and Difficulties Encountered
 
