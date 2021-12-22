@@ -33,11 +33,11 @@ To simplified the analysis, I have filtered out all the stocks that performed be
 
 ### Code Execution Time
 
-<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2017-0.PNG" width="600">
-<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG" width="600">
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2017-0.PNG" width="300">
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG" width="300">
 
-<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2018-0.PNG" width="600">
-<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2018.PNG" width="600">
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2018-0.PNG" width="300">
+<img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2018.PNG" width="300">
 
 ### Challenges and Difficulties Encountered
 
