@@ -30,13 +30,14 @@ To simplified the analysis, I have filtered out all the stocks that performed be
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/Ticker%20SEDG.png" width="600">
 
 ### Code Execution Time
-The execution times have improved by 400% in the 2017 data and by 500% in the 2018 data. This is because the refactored script loops only once over the entire data.
+The execution times have improved by 400% in the 2017 data set, and by 500% in the 2018 data set. This is because the refactored script loops over the entire data set only once, rather than as many tickers there are.
 
 2017
 <p float="left">
   <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2017-0.PNG" width="300">
   <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/VBA_Challenge_2017.PNG" width="300">
 </p>
+
 2018
 <p float="left">
 <img src="https://github.com/juliomeza/stock-analysis/blob/main/resources/2018-0.PNG" width="300">
@@ -44,10 +45,7 @@ The execution times have improved by 400% in the 2017 data and by 500% in the 20
 </p>
 
 ## Summary
-- What are the advantages or disadvantages of refactoring code?
-- How do these pros and cons apply to refactoring the original VBA script?
-- Challenges and Difficulties Encountered
-- What are some limitations of this dataset?
-- What are some other possible tables and/or graphs that we could create?
-* Convert Date with slash
-
+- The advantage of refactoring the code is to reduce the running time. This allows us to analyze greater amount of data without sacrificing the waiting time. 
+- The only disadvantage on this specific refactoring case if that the data needs to be sorted before running the code.
+- One of the limitations of the data set is that the values are recorded by day, instead of by minute. Stocks prices changes a lot during the day.
+- One of the challenges was to convert the yy-mm-dd format to yy/mm/dd format to be recognize by the pivot table. After spending a lot of time playing with the date formating option, the solution was as simple as replacing the '-' with '/' using the Find and Replace option
